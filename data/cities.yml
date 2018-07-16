@@ -1,0 +1,18 @@
+- city: 'Paris'
+  country: 'France'
+  name: 'Sebastien'
+  description: 'Charming room in Montmartre'
+  github_nickname: 'ssaunier'
+  rating: 4
+- city: 'Tokyo'
+  country: 'Japan'
+  name: 'Boris'
+  description: 'Small flat in Tokyo'
+  github_nickname: 'papillard'
+  rating: 3
+- city: 'London'
+  country: 'UK'
+  name: 'Romain'
+  description: 'Nice flat in Piccadilly'
+  github_nickname: 'monsieurpaillard'
+  rating: 5
